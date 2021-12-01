@@ -1,4 +1,4 @@
-# Sports Analytics Final Project: Analysis of NFL betting data
+# Sports Analytics Final Project: Analysis of NFL betting data 
 
 ## Project Tasks:
 This project aims to analyze NFL matchup data and build predictive models to offer an analytical approach to sports betting. It focuses on the three main areas for American bettors: money line bets, spread bets, and total over/under bets. 
