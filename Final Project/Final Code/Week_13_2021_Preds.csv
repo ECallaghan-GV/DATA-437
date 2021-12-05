@@ -1,0 +1,14 @@
+favorite_team,underdog_team,spread_favorite,projected_favorite_score,projected_underdog_score,projected_winner,projected_favorite_cover_spread,over_under_line,projected_over_under_line,projected_over_under
+Arizona Cardinals,Chicago Bears,-7.5,29.0,13.7,Arizona Cardinals,Yes,45.5,42.7,Under
+Dallas Cowboys,New Orleans Saints,-4.5,27.9,25.8,Dallas Cowboys,No,48.5,53.7,Over
+Kansas City Chiefs,Denver Broncos,-10.0,20.9,20.1,Kansas City Chiefs,No,47.0,41.0,Under
+Indianapolis Colts,Houston Texans,-8.5,28.9,15.7,Indianapolis Colts,Yes,45.5,44.599999999999994,Under
+Los Angeles Rams,Jacksonville Jaguars,-12.0,30.7,17.0,Los Angeles Rams,Yes,47.0,47.7,Over
+Cincinnati Bengals,Los Angeles Chargers,-3.0,30.6,21.4,Cincinnati Bengals,Yes,50.5,52.0,Over
+Minnesota Vikings,Detroit Lions,-7.0,26.0,18.8,Minnesota Vikings,Yes,47.0,44.8,Under
+Buffalo Bills,New England Patriots,-3.0,25.1,19.1,Buffalo Bills,Yes,43.5,44.2,Over
+Miami Dolphins,New York Giants,-4.5,19.0,19.7,New York Giants,No,41.0,38.7,Under
+Philadelphia Eagles,New York Jets,-6.5,30.4,17.9,Philadelphia Eagles,Yes,45.0,48.3,Over
+San Francisco 49ers,Seattle Seahawks,-3.5,20.1,23.0,Seattle Seahawks,No,45.0,43.1,Under
+Tampa Bay Buccaneers,Atlanta Falcons,-11.0,34.3,21.5,Tampa Bay Buccaneers,Yes,50.5,55.8,Over
+Las Vegas Raiders,Washington Football Team,-2.5,27.2,22.3,Las Vegas Raiders,Yes,49.0,49.5,Over
