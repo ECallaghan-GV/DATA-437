@@ -1,0 +1,16 @@
+favorite_team,underdog_team,spread_favorite,projected_favorite_score,projected_underdog_score,projected_winner,projected_favorite_cover_spread,over_under_line,projected_over_under_line,projected_over_under,favorite_team_score,underdog_team_score,winner
+Atlanta Falcons,Jacksonville Jaguars,-1,23.5,23.3,Atlanta Falcons,No,47,46.8,Under,21,14,Atlanta Falcons
+Buffalo Bills,New Orleans Saints,-5.5,26.9,21.7,Buffalo Bills,No,45,48.6,Over,31,6,Buffalo Bills
+Carolina Panthers,Miami Dolphins,-2,20,16.6,Carolina Panthers,Yes,42.5,36.6,Under,10,33,Miami Dolphins
+Chicago Bears,Detroit Lions,-3,20.3,18.3,Chicago Bears,No,41.5,38.6,Under,16,14,Chicago Bears
+Baltimore Ravens,Cleveland Browns,-4,27.1,23.6,Baltimore Ravens,No,45.5,50.7,Over,16,10,Baltimore Ravens
+Dallas Cowboys,Las Vegas Raiders,-7.5,33.2,21.8,Dallas Cowboys,Yes,51,55,Over,33,36,Las Vegas Raiders
+Los Angeles Chargers,Denver Broncos,-3,19.5,25.5,Denver Broncos,No,47.5,45,Under,7,28,Denver Broncos
+Green Bay Packers,Los Angeles Rams,-1,22.8,24.2,Los Angeles Rams,No,47.5,47,Under,36,28,Green Bay Packers
+San Francisco 49ers,Minnesota Vikings,-3,24.9,22.5,San Francisco 49ers,No,48,47.4,Under,34,26,San Francisco 49ers
+Houston Texans,New York Jets,-2.5,23.5,20.9,Houston Texans,Yes,44.5,44.4,Under,14,21,New York Jets
+Philadelphia Eagles,New York Giants,-3.5,25.4,21,Philadelphia Eagles,Yes,46.5,46.4,Under,7,13,New York Giants
+Cincinnati Bengals,Pittsburgh Steelers,-4,27.2,18.4,Cincinnati Bengals,Yes,45.5,45.6,Over,41,10,Cincinnati Bengals
+Washington Football Team,Seattle Seahawks,-1,18.3,24.9,Seattle Seahawks,No,47,43.2,Under,17,15,Washington Football Team
+Tampa Bay Buccaneers,Indianapolis Colts,-3,29.7,27.2,Tampa Bay Buccaneers,No,51.5,56.9,Over,38,31,Tampa Bay Buccaneers
+New England Patriots,Tennessee Titans,-6,28.3,20.6,New England Patriots,Yes,44,48.9,Over,36,13,New England Patriots
