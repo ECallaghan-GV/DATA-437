@@ -20,5 +20,4 @@ This project aims to analyze NFL matchup data and build predictive models to off
 2. Project report
 3. Project report presentation
 4. Predicting on upcoming Week 12 and Week 13 NFL games
-5. Results
-
+5. Results compared to Vegas odds
